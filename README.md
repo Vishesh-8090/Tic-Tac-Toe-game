@@ -23,6 +23,6 @@ Players take turns placing 'X' and 'O' on a 3×3 grid until one wins or the boar
 
 ## 🖥️ Example Gameplay
 
-<img src="D:\Projects\images\image1.png" alt="Game Screenshot" width="300">
-<img src="D:\Projects\images\image2.png" alt="Game Screenshot" width="250">
-<img src="D:\Projects\images\image3.png" alt="Game Screenshot" width="150">
+<img src="images\image1.png" alt="Game Screenshot" width="300">
+<img src="images\image2.png" alt="Game Screenshot" width="250">
+<img src="images\image3.png" alt="Game Screenshot" width="150">
